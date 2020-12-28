@@ -18,9 +18,11 @@ When you installed the file it's time to add it to your Adobe Cloud Documents by
 3. Rename the file.
 4. Hit that Save button and begin using it in your next Adobe XD design. _(You will still need to click `Link Assets` in the new project and select the `Tailwindcss XD` file)_
 
-## Authors
+## Author
 
-* **Jonathan Shroyer** - [Design Innovations](https://designinnovations.net) - [learncss](https://github.com/learncss)
+* **Jonathan Shroyer**
+* Company: [Design Innovations](https://designinnovations.net). 
+* Github: [learncss](https://github.com/learncss)
 
 A special thanks to [Christian W. Hansen](https://github.com/mrcrille) for his TailwindCSS 1.x repo. I found it after building most of this and I liked the style of it, and having the shadows done was a huge time saver.
 
