@@ -9,7 +9,7 @@ An asset library for TailwindCSS 2.x utilizing call default colors, grid, box sh
 
 ## Installation
 
-To begin with download the [latest version of the Adobe XD file](https://github.com/learncss/xd-tailwindcss/blob/master/Tailwindcss%20XD.xd)
+To begin with download the [latest version of the Adobe XD file](https://github.com/learncss/TailwindCSS-XD/blob/main/Tailwindcss%20XD.xd)
 
 When you installed the file it's time to add it to your Adobe Cloud Documents by doing following.
 
